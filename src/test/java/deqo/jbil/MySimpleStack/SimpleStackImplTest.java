@@ -6,7 +6,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * test modif exigence #1
+ * test modif exigence #1 h
  */
 public class SimpleStackImplTest {
 
