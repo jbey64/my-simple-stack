@@ -5,6 +5,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+/**
+ * test modif exigence 1
+ */
 public class SimpleStackImplTest {
 
     @Before
