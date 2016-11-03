@@ -6,7 +6,10 @@ import java.util.EmptyStackException;
  * Created by 21202655 on 03/11/2016.
  */
 public interface SimpleStack {
-
+    /**
+     * un commentaitre pour #3
+     * @return
+     */
     public boolean isEmpty();
 
     public int getSize();
